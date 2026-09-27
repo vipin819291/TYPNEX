@@ -1,0 +1,6 @@
+{
+  "name": "Typnex",
+  "description": "Typnex - Secure 1-on-1 Liquid Glass Chat & Document Typing Platform with E2EE, multi-language support, voice, and file exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
